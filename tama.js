@@ -1,5 +1,5 @@
 function tama(){
-    var tama = 12
+    var tama = 14
     console.log(tama);
     
 }
